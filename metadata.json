@@ -1,0 +1,6 @@
+{
+  "name": "Vector Hunt — 3D Urban Drone Extraction",
+  "description": "Fast-paced 3D asymmetric stealth-action game across urban map sectors: hide behind destructible cover from an armed sensor drone, weather dynamic storms, and race to extraction in solo or real-time multiplayer tag matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
